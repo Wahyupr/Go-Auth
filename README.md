@@ -1,4 +1,4 @@
-# Go-Auth-technical
+# Go-Auth-technical Backend
 
 ## Authentification User Golang denngan mengimplemntasikan JWT MySQL
 
