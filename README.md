@@ -5,7 +5,9 @@
 - Register
 - Login 
 - Logout
+- Home
 - Implementasi JWT
+
 
 Dependancy yang saya gunakan yaitu 
 - github.com/gofiber/fiber/v2
